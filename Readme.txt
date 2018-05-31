@@ -1,4 +1,4 @@
-Git is life and fun.
+Git is life and easy to use.
 
 I'm feeling a lil' bit tired and hungry.
 
